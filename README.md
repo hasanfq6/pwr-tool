@@ -18,7 +18,7 @@ Simple tool that contain most powerfull inside
 
 ### Installation 
 ```
-- git clone https://github.com/Kamanati/pwr-tool
+- git clone https://github.com/hasanfq6/pwr-tool
 - cd pwr-tool
 - chmod +x *
 - ./start.sh
@@ -42,7 +42,7 @@ Simple tool that contain most powerfull inside
 
 <p align="left">
 
-<a href="https://github.com/Kamanati/zphisher" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/hasanfq6/zphisher" target="_blank"><img src="https://img.shields.io/badge/Github-kamanati-green?style=for-the-badge&logo=github"></a>
 
 <a href="https://instagram.com/hasanfq6?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/IG-%40hasanfq6-red?style=for-the-badge&logo=instagram"></a>
 
